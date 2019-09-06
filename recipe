@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>My recipe</title>
+  </head>
+  <body>
+    <h1>omelet</h1>
+    <p>served with bread and butter.
+      1 Omelet produced
+    </p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>3 eggs</li>
+      <li>15% cream</li>
+      <li>fresh basil</li>
+    </ul>
+    
+    <h2>Steps</h2>
+    <ol>
+      <li>beat eggs</li>
+      <li>add cream to eggs</li>
+      <li>pour eggs in a pan on medium heat</li>
+      <li>reduce heat to low and cover</li>
+      <li>remove when you think its cooked enough for you</li>
+    </ol> 
+	<img src="https://i.pinimg.com/originals/68/60/38/686038a3258cc0b7bcd790f76f747527.jpg">
+    <h2>Missing Ingredients</h2>
+    <a href="mailto:alexandrestefan2002@gmail.com
+	cc=aheraz@uxwid.net&subject=Missing ingredients&body=Buy eggs">Buy Ingredients</a>
+  </body>
+</html>
+
+
+body{
+  text-align: center;
+}
